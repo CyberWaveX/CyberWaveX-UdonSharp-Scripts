@@ -1,6 +1,6 @@
 # Cyber's Free UdonSharp Scripts for VRChat
 
-Hello, VRChat creators! 👋 I'm Cyber, and I've put together a collection of UdonSharp scripts for anyone looking to add fun and interactive elements to their VRChat worlds. Feel free to use and modify them for your projects!
+Hello, VRChat creators! 👋 I'm CyberWaveX, and I've put together a collection of UdonSharp scripts for anyone looking to add fun and interactive elements to their VRChat worlds. Feel free to use and modify them for your projects!
 
 ## Quick Start
 
