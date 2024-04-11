@@ -21,8 +21,8 @@ Hello, VRChat creators! 👋 I'm CyberWaveX, and I've made a collection of UdonS
 - **BouncyObject.cs** - Makes objects bounce when interacted with.
 - **Teleporter.cs** - Teleports players around your world.
 - **JoinSoundEffect.cs** - Plays a sound when a new player joins the lobby.
-- **DoubleJump.cs** - Allows the user to jump twice (with a optional toggle for triple jump).
-
+- **DoubleJump.cs** - User can jump twice (with a optional toggle for triple jump).
+- **ToggleGameObjects.cs** - Toggles multiple gameobjects on/off.
 
 ## More scripts are on their way, so stay tuned!
 
