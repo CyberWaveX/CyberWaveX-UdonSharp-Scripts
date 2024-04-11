@@ -37,3 +37,6 @@ public class ToggleGameObjects : UdonSharpBehaviour
         }
     }
 }
+
+// CyberWaveX Copyright 2024 
+// Please credit when using this code.
