@@ -6,7 +6,7 @@ Hello, VRChat creators! 👋 I'm Cyber, and I've put together a collection of Ud
 
 ## To use these scripts, you'll need:
 
-    Unity 2022.3. 6f1
+    Unity 2022.3.6f1
     UdonSharp
 
 ## Here's how to get started:
