@@ -11,10 +11,10 @@ Hello, VRChat creators! 👋 I'm Cyber, and I've put together a collection of Ud
 
 ## Here's how to get started:
 
-    Download the scripts from this repo.
-    Import them into your Unity project.
-    Drag and drop the scripts onto GameObjects in your scene.
-    Adjust settings to match your vision.
+    Create Component on GameObject.
+    Add UdonBehaviour Component.
+    Create UdonSharp Script.
+    Assign Script to UdonBehaviour.
 
 ## Available Scripts
 
