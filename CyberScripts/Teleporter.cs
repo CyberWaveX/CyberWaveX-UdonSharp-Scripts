@@ -18,3 +18,6 @@ public class Teleporter : UdonSharpBehaviour
         player.TeleportTo(targetLocation.position, targetLocation.rotation);
     }
 }
+
+// CyberWaveX Copyright 2024 
+// Please credit when using this code.

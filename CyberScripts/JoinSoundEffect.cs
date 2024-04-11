@@ -36,3 +36,6 @@ public class JoinSoundEffect : UdonSharpBehaviour
         }
     }
 }
+
+// CyberWaveX Copyright 2024 
+// Please credit when using this code.
